@@ -1,11 +1,251 @@
 [
     {
         "name": "John Smith",
-        "picture": "https://example.com/john-smith.jpg",
+        "picture": "https://i.ibb.co/N6S1d6p/front-view-smiley-male-chef-removebg-preview.png",
+        "experience": 10,
+        "numRecipes": 50,
+        "likes": 1000,
+        "id": "xG8jK5qdfds7P2wF9t",
+        "profileImage": "https://example.com/profiles/john-smith.jpg",
+        "biodata": "John Smith is a seasoned chef with a passion for creating innovative and delicious dishes.",
+        "recipes": [
+            {
+                "recipeName": "Grilled Salmon",
+                "cookingMethod": "Grilling - Preheat grill to medium-high heat. Brush salmon fillets with olive oil, and sprinkle with salt and pepper. Place fillets, skin side down, on grill rack coated with cooking spray. Grill for 6 minutes or until fish flakes easily when tested with a fork. Serve with lemon wedges.",
+                "ratings": 4.5,
+                "ingredients": [
+                    "salmon fillets",
+                    "olive oil",
+                    "salt",
+                    "pepper",
+                    "lemon"
+                ]
+            },
+            {
+                "recipeName": "Mushroom Risotto",
+                "cookingMethod": "Stovetop - In a large saucepan, heat chicken broth over medium heat. In a separate saucepan, heat olive oil and sauté chopped onions and garlic until soft. Add arborio rice and sauté for 2-3 minutes. Gradually add chicken broth to the rice mixture, stirring frequently, until the liquid is absorbed and the rice is cooked through. Add sautéed mushrooms and grated parmesan cheese, and stir until well combined.",
+                "ratings": 4.8,
+                "ingredients": [
+                    "arborio rice",
+                    "mushrooms",
+                    "chicken broth",
+                    "parmesan cheese",
+                    "butter"
+                ]
+            },
+            {
+                "recipeName": "Chocolate Cake",
+                "cookingMethod": "Oven - Preheat oven to 350°F (175°C). Grease and flour a 9x13 inch baking pan. In a large mixing bowl, whisk together flour, sugar, cocoa powder, baking soda, and salt. Add eggs, milk, vegetable oil, and vanilla extract, and beat on medium speed for 2 minutes. Gradually add hot water, and continue to beat until well combined. Pour batter into prepared pan and bake for 30-35 minutes, or until a toothpick inserted in the center comes out clean. Allow to cool completely before serving.",
+                "ratings": 4.7,
+                "ingredients": [
+                    "flour",
+                    "sugar",
+                    "cocoa powder",
+                    "eggs",
+                    "vegetable oil"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "John Smith",
+        "picture": "https://i.ibb.co/N6S1d6p/front-view-smiley-male-chef-removebg-preview.png",
         "experience": 10,
         "numRecipes": 50,
         "likes": 1000,
         "id": "xG8jK5q7P2wF9t",
+        "profileImage": "https://example.com/profiles/john-smith.jpg",
+        "biodata": "John Smith is a seasoned chef with a passion for creating innovative and delicious dishes.",
+        "recipes": [
+            {
+                "recipeName": "Grilled Salmon",
+                "cookingMethod": "Grilling - Preheat grill to medium-high heat. Brush salmon fillets with olive oil, and sprinkle with salt and pepper. Place fillets, skin side down, on grill rack coated with cooking spray. Grill for 6 minutes or until fish flakes easily when tested with a fork. Serve with lemon wedges.",
+                "ratings": 4.5,
+                "ingredients": [
+                    "salmon fillets",
+                    "olive oil",
+                    "salt",
+                    "pepper",
+                    "lemon"
+                ]
+            },
+            {
+                "recipeName": "Mushroom Risotto",
+                "cookingMethod": "Stovetop - In a large saucepan, heat chicken broth over medium heat. In a separate saucepan, heat olive oil and sauté chopped onions and garlic until soft. Add arborio rice and sauté for 2-3 minutes. Gradually add chicken broth to the rice mixture, stirring frequently, until the liquid is absorbed and the rice is cooked through. Add sautéed mushrooms and grated parmesan cheese, and stir until well combined.",
+                "ratings": 4.8,
+                "ingredients": [
+                    "arborio rice",
+                    "mushrooms",
+                    "chicken broth",
+                    "parmesan cheese",
+                    "butter"
+                ]
+            },
+            {
+                "recipeName": "Chocolate Cake",
+                "cookingMethod": "Oven - Preheat oven to 350°F (175°C). Grease and flour a 9x13 inch baking pan. In a large mixing bowl, whisk together flour, sugar, cocoa powder, baking soda, and salt. Add eggs, milk, vegetable oil, and vanilla extract, and beat on medium speed for 2 minutes. Gradually add hot water, and continue to beat until well combined. Pour batter into prepared pan and bake for 30-35 minutes, or until a toothpick inserted in the center comes out clean. Allow to cool completely before serving.",
+                "ratings": 4.7,
+                "ingredients": [
+                    "flour",
+                    "sugar",
+                    "cocoa powder",
+                    "eggs",
+                    "vegetable oil"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "John Smith",
+        "picture": "https://i.ibb.co/N6S1d6p/front-view-smiley-male-chef-removebg-preview.png",
+        "experience": 10,
+        "numRecipes": 50,
+        "likes": 1000,
+        "id": "xG8jK5q7P2fdawF9t",
+        "profileImage": "https://example.com/profiles/john-smith.jpg",
+        "biodata": "John Smith is a seasoned chef with a passion for creating innovative and delicious dishes.",
+        "recipes": [
+            {
+                "recipeName": "Grilled Salmon",
+                "cookingMethod": "Grilling - Preheat grill to medium-high heat. Brush salmon fillets with olive oil, and sprinkle with salt and pepper. Place fillets, skin side down, on grill rack coated with cooking spray. Grill for 6 minutes or until fish flakes easily when tested with a fork. Serve with lemon wedges.",
+                "ratings": 4.5,
+                "ingredients": [
+                    "salmon fillets",
+                    "olive oil",
+                    "salt",
+                    "pepper",
+                    "lemon"
+                ]
+            },
+            {
+                "recipeName": "Mushroom Risotto",
+                "cookingMethod": "Stovetop - In a large saucepan, heat chicken broth over medium heat. In a separate saucepan, heat olive oil and sauté chopped onions and garlic until soft. Add arborio rice and sauté for 2-3 minutes. Gradually add chicken broth to the rice mixture, stirring frequently, until the liquid is absorbed and the rice is cooked through. Add sautéed mushrooms and grated parmesan cheese, and stir until well combined.",
+                "ratings": 4.8,
+                "ingredients": [
+                    "arborio rice",
+                    "mushrooms",
+                    "chicken broth",
+                    "parmesan cheese",
+                    "butter"
+                ]
+            },
+            {
+                "recipeName": "Chocolate Cake",
+                "cookingMethod": "Oven - Preheat oven to 350°F (175°C). Grease and flour a 9x13 inch baking pan. In a large mixing bowl, whisk together flour, sugar, cocoa powder, baking soda, and salt. Add eggs, milk, vegetable oil, and vanilla extract, and beat on medium speed for 2 minutes. Gradually add hot water, and continue to beat until well combined. Pour batter into prepared pan and bake for 30-35 minutes, or until a toothpick inserted in the center comes out clean. Allow to cool completely before serving.",
+                "ratings": 4.7,
+                "ingredients": [
+                    "flour",
+                    "sugar",
+                    "cocoa powder",
+                    "eggs",
+                    "vegetable oil"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "John Smith",
+        "picture": "https://i.ibb.co/N6S1d6p/front-view-smiley-male-chef-removebg-preview.png",
+        "experience": 10,
+        "numRecipes": 50,
+        "likes": 1000,
+        "id": "xG8jK5qdfds7P2wfdfF9t",
+        "profileImage": "https://example.com/profiles/john-smith.jpg",
+        "biodata": "John Smith is a seasoned chef with a passion for creating innovative and delicious dishes.",
+        "recipes": [
+            {
+                "recipeName": "Grilled Salmon",
+                "cookingMethod": "Grilling - Preheat grill to medium-high heat. Brush salmon fillets with olive oil, and sprinkle with salt and pepper. Place fillets, skin side down, on grill rack coated with cooking spray. Grill for 6 minutes or until fish flakes easily when tested with a fork. Serve with lemon wedges.",
+                "ratings": 4.5,
+                "ingredients": [
+                    "salmon fillets",
+                    "olive oil",
+                    "salt",
+                    "pepper",
+                    "lemon"
+                ]
+            },
+            {
+                "recipeName": "Mushroom Risotto",
+                "cookingMethod": "Stovetop - In a large saucepan, heat chicken broth over medium heat. In a separate saucepan, heat olive oil and sauté chopped onions and garlic until soft. Add arborio rice and sauté for 2-3 minutes. Gradually add chicken broth to the rice mixture, stirring frequently, until the liquid is absorbed and the rice is cooked through. Add sautéed mushrooms and grated parmesan cheese, and stir until well combined.",
+                "ratings": 4.8,
+                "ingredients": [
+                    "arborio rice",
+                    "mushrooms",
+                    "chicken broth",
+                    "parmesan cheese",
+                    "butter"
+                ]
+            },
+            {
+                "recipeName": "Chocolate Cake",
+                "cookingMethod": "Oven - Preheat oven to 350°F (175°C). Grease and flour a 9x13 inch baking pan. In a large mixing bowl, whisk together flour, sugar, cocoa powder, baking soda, and salt. Add eggs, milk, vegetable oil, and vanilla extract, and beat on medium speed for 2 minutes. Gradually add hot water, and continue to beat until well combined. Pour batter into prepared pan and bake for 30-35 minutes, or until a toothpick inserted in the center comes out clean. Allow to cool completely before serving.",
+                "ratings": 4.7,
+                "ingredients": [
+                    "flour",
+                    "sugar",
+                    "cocoa powder",
+                    "eggs",
+                    "vegetable oil"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "John Smith",
+        "picture": "https://i.ibb.co/N6S1d6p/front-view-smiley-male-chef-removebg-preview.png",
+        "experience": 10,
+        "numRecipes": 50,
+        "likes": 1000,
+        "id": "xG8jK5qfdf7P2wF9t",
+        "profileImage": "https://example.com/profiles/john-smith.jpg",
+        "biodata": "John Smith is a seasoned chef with a passion for creating innovative and delicious dishes.",
+        "recipes": [
+            {
+                "recipeName": "Grilled Salmon",
+                "cookingMethod": "Grilling - Preheat grill to medium-high heat. Brush salmon fillets with olive oil, and sprinkle with salt and pepper. Place fillets, skin side down, on grill rack coated with cooking spray. Grill for 6 minutes or until fish flakes easily when tested with a fork. Serve with lemon wedges.",
+                "ratings": 4.5,
+                "ingredients": [
+                    "salmon fillets",
+                    "olive oil",
+                    "salt",
+                    "pepper",
+                    "lemon"
+                ]
+            },
+            {
+                "recipeName": "Mushroom Risotto",
+                "cookingMethod": "Stovetop - In a large saucepan, heat chicken broth over medium heat. In a separate saucepan, heat olive oil and sauté chopped onions and garlic until soft. Add arborio rice and sauté for 2-3 minutes. Gradually add chicken broth to the rice mixture, stirring frequently, until the liquid is absorbed and the rice is cooked through. Add sautéed mushrooms and grated parmesan cheese, and stir until well combined.",
+                "ratings": 4.8,
+                "ingredients": [
+                    "arborio rice",
+                    "mushrooms",
+                    "chicken broth",
+                    "parmesan cheese",
+                    "butter"
+                ]
+            },
+            {
+                "recipeName": "Chocolate Cake",
+                "cookingMethod": "Oven - Preheat oven to 350°F (175°C). Grease and flour a 9x13 inch baking pan. In a large mixing bowl, whisk together flour, sugar, cocoa powder, baking soda, and salt. Add eggs, milk, vegetable oil, and vanilla extract, and beat on medium speed for 2 minutes. Gradually add hot water, and continue to beat until well combined. Pour batter into prepared pan and bake for 30-35 minutes, or until a toothpick inserted in the center comes out clean. Allow to cool completely before serving.",
+                "ratings": 4.7,
+                "ingredients": [
+                    "flour",
+                    "sugar",
+                    "cocoa powder",
+                    "eggs",
+                    "vegetable oil"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "John Smith",
+        "picture": "https://i.ibb.co/N6S1d6p/front-view-smiley-male-chef-removebg-preview.png",
+        "experience": 10,
+        "numRecipes": 50,
+        "likes": 1000,
+        "id": "xG8jK5q7fdfP2wF9t",
         "profileImage": "https://example.com/profiles/john-smith.jpg",
         "biodata": "John Smith is a seasoned chef with a passion for creating innovative and delicious dishes.",
         "recipes": [
