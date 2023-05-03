@@ -7,13 +7,19 @@ app.use(cors())
 const chefsData = require('./data/data.json')
 
 app.get('/', (req, res) => {
-    // res.send('Coocks corner in running')
-    res.send(chefsData)
+    res.send('Super Chef server is')
+
 
 })
 
+app.get('/chefs/:id', (req, res) => {
+    const id = req.params.id
+    const selectedChef = chefsData.find(chef => chef.id === id)
+    res.send(selectedChef)
+})
+
 // send all chefs data 
-app.get('/chefsdata', (req, res) => {
+app.get('/chefs', (req, res) => {
     res.send(chefsData)
 })
 
