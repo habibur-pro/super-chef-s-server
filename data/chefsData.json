@@ -1,7 +1,7 @@
 [
     {
         "name": "John Smith",
-        "picture": "https://i.ibb.co/N6S1d6p/front-view-smiley-male-chef-removebg-preview.png",
+        "picture": "https://i.ibb.co/SBGy5vX/confident-young-male-cook-wearing-chef-uniform-crosing-hands-isolated-white-wall-with-copy-space-rem.png",
         "experience": 10,
         "numRecipes": 50,
         "likes": 1000,
@@ -58,7 +58,7 @@
     },
     {
         "name": "Jane Doe",
-        "picture": "https://i.ibb.co/YpX9vZG/woman-avatar-removebg-preview.png",
+        "picture": "https://i.ibb.co/s2TxhX0/confident-young-male-cook-wearing-chef-uniform-glasses-crossing-hands-removebg-preview.png",
         "experience": 8,
         "numRecipes": 25,
         "likes": 750,
@@ -127,7 +127,7 @@
     },
     {
         "name": "Mario Rossi",
-        "picture": "https://i.ibb.co/x2hc4Q8/man-avatar.png",
+        "picture": "https://i.ibb.co/N6S1d6p/front-view-smiley-male-chef-removebg-preview.png",
         "experience": 12,
         "numRecipes": 35,
         "likes": 1100,
@@ -188,8 +188,8 @@
         ]
     },
     {
-        "name": "Julia Smith",
-        "picture": "https://i.ibb.co/x2hc4Q8/woman-avatar.png",
+        "name": "Michael Smith",
+        "picture": "https://i.ibb.co/ssMKX4F/portrait-chef-with-arms-crossed-removebg-preview.png",
         "experience": 8,
         "numRecipes": 20,
         "likes": 750,
@@ -252,8 +252,8 @@
         ]
     },
     {
-        "name": "Daniel Lee",
-        "picture": "https://i.ibb.co/x2hc4Q8/man-avatar.png",
+        "name": "Sean Walter",
+        "picture": "https://i.ibb.co/CJ6mvq6/portrait-confident-male-chef-kitchen-removebg-preview.png",
         "experience": 8,
         "numRecipes": 25,
         "likes": 850,
@@ -310,7 +310,7 @@
     },
     {
         "name": "John Davis",
-        "picture": "https://i.ibb.co/x2hc4Q8/man-avatar.png",
+        "picture": "https://i.ibb.co/r2LgDJ7/successful-happy-eldery-chef-crossed-arms-portrait-white-wall-isolated-removebg-preview.png",
         "experience": 10,
         "numRecipes": 35,
         "likes": 1200,
