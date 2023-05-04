@@ -86,7 +86,7 @@
                 ]
             },
             {
-                "recipeId": "b6a5c9f2d8",
+                "recipeId": "b6a5rc9f2d8",
                 "recipeName": "Lemon Garlic Shrimp Pasta",
                 "recipeImage": "https://example.com/recipes/lemon-garlic-shrimp-pasta.jpg",
                 "makerId": "aB4dE7fGhIjK8lM9",
@@ -131,7 +131,7 @@
         "experience": 12,
         "numRecipes": 35,
         "likes": 1100,
-        "chefId": "gH6iJ8kL4mN3",
+        "chefId": "bC4dE8fG2hI9jK6",
         "profileImage": "https://example.com/profiles/mario-rossi.jpg",
         "biodata": "Mario Rossi is a passionate chef who specializes in traditional Italian cuisine. He loves sourcing fresh, local ingredients and creating dishes that are both flavorful and visually appealing.",
         "recipes": [
@@ -183,6 +183,208 @@
                     "pine nuts",
                     "Parmesan cheese",
                     "olive oil"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Julia Smith",
+        "picture": "https://i.ibb.co/x2hc4Q8/woman-avatar.png",
+        "experience": 8,
+        "numRecipes": 20,
+        "likes": 750,
+        "chefId": "fH9jK7lM2nQ4",
+        "profileImage": "https://example.com/profiles/julia-smith.jpg",
+        "biodata": "Julia Smith is a self-taught chef who enjoys experimenting with fusion cuisine. She is known for her creative use of spices and her ability to elevate simple ingredients.",
+        "recipes": [
+            {
+                "recipeId": "fH9jK7lrM2nQ4",
+                "recipeName": "Chicken Tikka Masala",
+                "recipeImage": "https://example.com/recipes/chicken-tikka-masala.jpg",
+                "makerId": "fH9jK7lM2nQ4",
+                "cookingMethod": "Marinate chicken in yogurt, lemon juice, and spices. Grill or broil until cooked through. In a separate pan, sauté onions and garlic in butter until softened. Add canned tomatoes and spices, and simmer until thickened. Add cooked chicken to the tomato sauce and simmer for a few more minutes. Serve with rice and naan bread.",
+                "ratings": 4.6,
+                "ingredients": [
+                    "chicken",
+                    "yogurt",
+                    "lemon juice",
+                    "spices",
+                    "onions",
+                    "garlic",
+                    "butter",
+                    "canned tomatoes",
+                    "rice",
+                    "naan bread"
+                ]
+            },
+            {
+                "recipeId": "gI8kL3nH4mQ5oP2",
+                "recipeName": "Miso Salmon",
+                "recipeImage": "https://example.com/recipes/miso-salmon.jpg",
+                "makerId": "fH9jK7lM2nQ4",
+                "cookingMethod": "Mix miso paste, sake, and sugar in a bowl. Coat salmon fillets in the miso mixture and marinate for at least 30 minutes. Broil or grill until cooked through. Serve with steamed rice and vegetables.",
+                "ratings": 4.9,
+                "ingredients": [
+                    "miso paste",
+                    "sake",
+                    "sugar",
+                    "salmon fillets",
+                    "rice",
+                    "vegetables"
+                ]
+            },
+            {
+                "recipeId": "hJ9kL7mF5nQ4oP2",
+                "recipeName": "Thai Green Curry",
+                "recipeImage": "https://example.com/recipes/thai-green-curry.jpg",
+                "makerId": "fH9jK7lM2nQ4",
+                "cookingMethod": "Heat oil in a large pot over medium heat. Add curry paste and cook for a minute or two, until fragrant. Add coconut milk and vegetables, and simmer until vegetables are tender. Add cooked chicken or shrimp, if desired. Serve with rice or noodles.",
+                "ratings": 4.7,
+                "ingredients": [
+                    "oil",
+                    "curry paste",
+                    "coconut milk",
+                    "vegetables",
+                    "chicken or shrimp",
+                    "rice or noodles"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Daniel Lee",
+        "picture": "https://i.ibb.co/x2hc4Q8/man-avatar.png",
+        "experience": 8,
+        "numRecipes": 25,
+        "likes": 850,
+        "chefId": "dH9jK6lM2nE5",
+        "profileImage": "https://example.com/profiles/daniel-lee.jpg",
+        "biodata": "Daniel Lee is a creative chef with a passion for fusing international flavors with traditional techniques. He loves experimenting with new ingredients and cooking styles to create unique and delicious dishes.",
+        "recipes": [
+            {
+                "recipeId": "dH9jK6lM2qE5",
+                "recipeName": "Korean Fried Chicken",
+                "recipeImage": "https://example.com/recipes/korean-fried-chicken.jpg",
+                "makerId": "dH9jK6lM2nE5",
+                "cookingMethod": "In a large bowl, mix together flour, cornstarch, salt, and baking powder. Add chicken wings and toss to coat. Heat oil in a deep fryer or large pot to 375°F. Fry chicken wings in batches until golden brown and crispy, about 10 minutes per batch. In a separate bowl, whisk together gochujang, honey, soy sauce, rice vinegar, sesame oil, and garlic. Toss fried chicken wings in the sauce until coated. Serve hot with sliced scallions and sesame seeds.",
+                "ratings": 4.6,
+                "ingredients": [
+                    "chicken wings",
+                    "flour",
+                    "cornstarch",
+                    "salt",
+                    "baking powder",
+                    "vegetable oil",
+                    "gochujang",
+                    "honey",
+                    "soy sauce",
+                    "rice vinegar",
+                    "sesame oil",
+                    "garlic",
+                    "scallions",
+                    "sesame seeds"
+                ]
+            },
+            {
+                "recipeId": "eI8kL5oN4mF1pQ9",
+                "recipeName": "Banh Mi Sandwich",
+                "recipeImage": "https://example.com/recipes/banh-mi-sandwich.jpg",
+                "makerId": "dH9jK6lM2nE5",
+                "cookingMethod": "Mix together mayonnaise and sriracha in a small bowl. Spread the mixture on one side of each baguette slice. Layer each sandwich with pickled carrots and daikon, sliced cucumber, fresh cilantro, jalapeno slices, and grilled or roasted pork belly or chicken. Serve immediately.",
+                "ratings": 4.9,
+                "ingredients": [
+                    "baguette",
+                    "mayonnaise",
+                    "sriracha",
+                    "pickled carrots",
+                    "pickled daikon",
+                    "cucumber",
+                    "fresh cilantro",
+                    "jalapeno",
+                    "pork belly",
+                    "chicken"
+                ]
+            },
+            {
+                "recipeId": "dH9jK6lg2nE5",
+                "recipeName": "Sushi Burrito",
+                "recipeImage": "https://example.com/recipes/sushi-burrito.jpg",
+                "makerId": "dH9jK6lM2nE5",
+                "cookingMethod": "Prepare sushi rice according to package instructions. Place a sheet of nori on a sushi mat, shiny side down. Spread a layer of rice over the nori, leaving a 1-inch border at the top. Arrange your desired fillings, such as cooked shrimp, avocado, cucumber, and carrots, in the center of the rice. Use the sushi mat to roll the nori tightly around the filling, tucking in the sides as you go. Wet the border of the nori with water to seal the roll. Slice the sushi burrito in half and serve with soy sauce and wasabi.",
+                "ratings": 4.6,
+                "ingredients": [
+                    "sushi rice",
+                    "nori",
+                    "shrimp",
+                    "avocado",
+                    "cucumber",
+                    "carrots",
+                    "soy sauce",
+                    "wasabi"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "John Davis",
+        "picture": "https://i.ibb.co/x2hc4Q8/man-avatar.png",
+        "experience": 10,
+        "numRecipes": 35,
+        "likes": 1200,
+        "chefId": "aB3cD4eF5gH6",
+        "profileImage": "https://example.com/profiles/john-davis.jpg",
+        "biodata": "John Davis is a professional chef with over 10 years of experience in the industry. He is passionate about using locally-sourced ingredients and creating dishes that are both healthy and delicious.",
+        "recipes": [
+            {
+                "recipeId": "aB3cD4eF5gH6",
+                "recipeName": "Grilled Steak with Chimichurri Sauce",
+                "recipeImage": "https://example.com/recipes/grilled-steak-chimichurri.jpg",
+                "makerId": "bC2dE3fG4hI5",
+                "cookingMethod": "Season steaks with salt and pepper, and grill to desired doneness. For the chimichurri sauce, blend together fresh parsley, garlic, red wine vinegar, olive oil, and red pepper flakes. Serve steak with the chimichurri sauce.",
+                "ratings": 4.8,
+                "ingredients": [
+                    "steak",
+                    "salt",
+                    "pepper",
+                    "fresh parsley",
+                    "garlic",
+                    "red wine vinegar",
+                    "olive oil",
+                    "red pepper flakes"
+                ]
+            },
+            {
+                "recipeId": "bC2dE3fG4hI5",
+                "recipeName": "Shrimp Scampi",
+                "recipeImage": "https://example.com/recipes/shrimp-scampi.jpg",
+                "makerId": "aB3cD4eF5gH6",
+                "cookingMethod": "Sauté garlic in butter until fragrant, then add shrimp and cook until pink. Add white wine and lemon juice, and simmer for a few minutes. Serve over linguine and garnish with chopped parsley.",
+                "ratings": 4.7,
+                "ingredients": [
+                    "garlic",
+                    "butter",
+                    "shrimp",
+                    "white wine",
+                    "lemon juice",
+                    "linguine",
+                    "chopped parsley"
+                ]
+            },
+            {
+                "recipeId": "cD3eF4gH5iJ6",
+                "recipeName": "Vegetable Stir-Fry",
+                "recipeImage": "https://example.com/recipes/vegetable-stir-fry.jpg",
+                "makerId": "aB3cD4eF5gH6",
+                "cookingMethod": "Heat oil in a wok or large pan. Add chopped vegetables and stir-fry until tender. Mix together soy sauce, ginger, garlic, and brown sugar. Pour over vegetables and stir-fry for a few more minutes. Serve over rice.",
+                "ratings": 4.5,
+                "ingredients": [
+                    "oil",
+                    "vegetables",
+                    "soy sauce",
+                    "ginger",
+                    "garlic",
+                    "brown sugar",
+                    "rice"
                 ]
             }
         ]
