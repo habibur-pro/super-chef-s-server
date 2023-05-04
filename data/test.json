@@ -1,0 +1,190 @@
+[
+    {
+        "name": "John Smith",
+        "picture": "https://i.ibb.co/N6S1d6p/front-view-smiley-male-chef-removebg-preview.png",
+        "experience": 10,
+        "numRecipes": 50,
+        "likes": 1000,
+        "chefId": "xG8jK5qdfds7P2wF9t",
+        "profileImage": "https://example.com/profiles/john-smith.jpg",
+        "biodata": "John Smith is a seasoned chef with a passion for creating innovative and delicious dishes.",
+        "recipes": [
+            {
+                "recipeId": "4385f2d6a1",
+                "recipeName": "Grilled Salmon",
+                "recipeImage": "https://example.com/recipes/grilled-salmon.jpg",
+                "makerId": "xG8jK5qdfds7P2wF9t",
+                "cookingMethod": "Grilling - Preheat grill to medium-high heat. Brush salmon fillets with olive oil, and sprinkle with salt and pepper. Place fillets, skin side down, on grill rack coated with cooking spray. Grill for 6 minutes or until fish flakes easily when tested with a fork. Serve with lemon wedges.",
+                "ratings": 4.5,
+                "ingredients": [
+                    "salmon fillets",
+                    "olive oil",
+                    "salt",
+                    "pepper",
+                    "lemon"
+                ]
+            },
+            {
+                "recipeId": "c7d8b2a1f6",
+                "recipeName": "Mushroom Risotto",
+                "recipeImage": "https://example.com/recipes/mushroom-risotto.jpg",
+                "makerId": "xG8jK5qdfds7P2wF9t",
+                "cookingMethod": "Stovetop - In a large saucepan, heat chicken broth over medium heat. In a separate saucepan, heat olive oil and sauté chopped onions and garlic until soft. Add arborio rice and sauté for 2-3 minutes. Gradually add chicken broth to the rice mixture, stirring frequently, until the liquid is absorbed and the rice is cooked through. Add sautéed mushrooms and grated parmesan cheese, and stir until well combined.",
+                "ratings": 4.8,
+                "ingredients": [
+                    "arborio rice",
+                    "mushrooms",
+                    "chicken broth",
+                    "parmesan cheese",
+                    "butter"
+                ]
+            },
+            {
+                "recipeId": "8d2c5f6a7b",
+                "recipeName": "Chocolate Cake",
+                "recipeImage": "https://example.com/recipes/chocolate-cake.jpg",
+                "makerId": "xG8jK5qdfds7P2wF9t",
+                "cookingMethod": "Oven - Preheat oven to 350°F (175°C). Grease and flour a 9x13 inch baking pan. In a large mixing bowl, whisk together flour, sugar, cocoa powder, baking soda, and salt. Add eggs, milk, vegetable oil, and vanilla extract, and beat on medium speed for 2 minutes. Gradually add hot water, and continue to beat until well combined. Pour batter into prepared pan and bake for 30-35 minutes, or until a toothpick inserted in the center comes out clean. Allow to cool completely before serving.",
+                "ratings": 4.7,
+                "ingredients": [
+                    "purpose flour",
+                    "baking powder",
+                    "butter",
+                    "cocoa powder",
+                    "powdered sugar"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Jane Doe",
+        "picture": "https://i.ibb.co/YpX9vZG/woman-avatar-removebg-preview.png",
+        "experience": 8,
+        "numRecipes": 25,
+        "likes": 750,
+        "chefId": "aB4dE7fGhIjK8lM9",
+        "profileImage": "https://example.com/profiles/jane-doe.jpg",
+        "biodata": "Jane Doe is a creative chef who loves experimenting with unique flavor combinations.",
+        "recipes": [
+            {
+                "recipeId": "a1b2c3d4e5",
+                "recipeName": "Roasted Vegetable Salad",
+                "recipeImage": "https://example.com/recipes/roasted-veggie-salad.jpg",
+                "makerId": "aB4dE7fGhIjK8lM9",
+                "cookingMethod": "Oven - Preheat oven to 400°F (200°C). Cut a selection of vegetables (e.g. bell peppers, zucchini, eggplant, cherry tomatoes) into bite-sized pieces and toss with olive oil, salt, and pepper. Roast vegetables in the oven for 20-25 minutes, or until they are tender and lightly charred. Serve over a bed of mixed greens with a drizzle of balsamic vinegar.",
+                "ratings": 4.2,
+                "ingredients": [
+                    "bell peppers",
+                    "zucchini",
+                    "eggplant",
+                    "cherry tomatoes",
+                    "olive oil",
+                    "salt",
+                    "pepper",
+                    "mixed greens",
+                    "balsamic vinegar"
+                ]
+            },
+            {
+                "recipeId": "b6a5c9f2d8",
+                "recipeName": "Lemon Garlic Shrimp Pasta",
+                "recipeImage": "https://example.com/recipes/lemon-garlic-shrimp-pasta.jpg",
+                "makerId": "aB4dE7fGhIjK8lM9",
+                "cookingMethod": "Stovetop - Cook pasta according to package instructions. While the pasta is cooking, heat olive oil in a large skillet over medium heat. Add minced garlic and sauté for 1-2 minutes, until fragrant. Add shrimp and cook until pink, about 3-4 minutes. Add lemon juice, salt, and red pepper flakes to the skillet, and stir to combine. Drain pasta and add it to the skillet, tossing to coat with the shrimp and sauce. Serve with grated parmesan cheese and chopped parsley.",
+                "ratings": 4.6,
+                "ingredients": [
+                    "pasta",
+                    "shrimp",
+                    "olive oil",
+                    "garlic",
+                    "lemon juice",
+                    "salt",
+                    "red pepper flakes",
+                    "parmesan cheese",
+                    "parsley"
+                ]
+            },
+            {
+                "recipeId": "b6a5c9f2d8",
+                "recipeName": "Linguine al Limone con Gamberi e Aglio",
+                "recipeImage": "https://example.com/recipes/linguine-al-limone-con-gamberi-e-aglio.jpg",
+                "makerId": "aB4dE7fGhIjK8lM9",
+                "cookingMethod": "Stovetop - Cook the linguine according to package instructions in a large pot of salted boiling water until al dente. While the pasta is cooking, heat olive oil in a large skillet over medium heat. Add minced garlic and sauté for 1-2 minutes, until fragrant. Add fresh, raw shrimp that has been cleaned and deveined, and cook until pink, about 3-4 minutes. Add lemon juice, salt, and red pepper flakes to the skillet, and stir to combine. Drain the linguine and add it to the skillet, tossing to coat with the shrimp and sauce. Serve with freshly grated Parmigiano-Reggiano cheese and chopped fresh parsley.",
+                "ratings": 4.6,
+                "ingredients": [
+                    "linguine",
+                    "fresh, raw shrimp",
+                    "extra-virgin olive oil",
+                    "garlic",
+                    "lemon juice",
+                    "salt",
+                    "red pepper flakes",
+                    "Parmigiano-Reggiano cheese",
+                    "fresh parsley"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Mario Rossi",
+        "picture": "https://i.ibb.co/x2hc4Q8/man-avatar.png",
+        "experience": 12,
+        "numRecipes": 35,
+        "likes": 1100,
+        "chefId": "gH6iJ8kL4mN3",
+        "profileImage": "https://example.com/profiles/mario-rossi.jpg",
+        "biodata": "Mario Rossi is a passionate chef who specializes in traditional Italian cuisine. He loves sourcing fresh, local ingredients and creating dishes that are both flavorful and visually appealing.",
+        "recipes": [
+            {
+                "recipeId": "gH6iJ8kL4mN3",
+                "recipeName": "Spaghetti Carbonara",
+                "recipeImage": "https://example.com/recipes/spaghetti-carbonara.jpg",
+                "makerId": "bC4dE8fG2hI9jK6",
+                "cookingMethod": "Stovetop - Cook spaghetti according to package instructions. While the pasta is cooking, cook diced pancetta in a large skillet over medium heat until crispy. In a bowl, whisk together eggs, grated Parmesan cheese, and black pepper. When pasta is done, reserve 1/2 cup of pasta water and drain the rest. Add drained pasta to the skillet with the pancetta and toss to combine. Remove skillet from heat and pour in egg mixture, stirring constantly until eggs are cooked and mixture is creamy. Add reserved pasta water as needed to thin the sauce. Serve immediately, garnished with additional grated Parmesan cheese and chopped parsley.",
+                "ratings": 4.8,
+                "ingredients": [
+                    "spaghetti",
+                    "pancetta",
+                    "eggs",
+                    "Parmesan cheese",
+                    "black pepper",
+                    "parsley"
+                ]
+            },
+            {
+                "recipeId": "hT4jK9nM1oP2qR8",
+                "recipeName": "Tiramisu",
+                "recipeImage": "https://example.com/recipes/tiramisu.jpg",
+                "makerId": "bC4dE8fG2hI9jK6",
+                "cookingMethod": "Mix espresso and Marsala wine in a shallow bowl. Dip ladyfingers in the mixture one by one, and place them in a single layer in the bottom of a 9x13 inch dish. Beat egg yolks and sugar in a large bowl until thick and pale. Add mascarpone cheese and beat until smooth. In a separate bowl, beat egg whites until stiff peaks form. Gently fold egg whites into mascarpone mixture. Spread half of the mascarpone mixture over the ladyfingers. Repeat with another layer of ladyfingers and remaining mascarpone mixture. Cover and chill for at least 2 hours, or overnight. Before serving, dust with cocoa powder.",
+                "ratings": 4.9,
+                "ingredients": [
+                    "espresso",
+                    "Marsala wine",
+                    "ladyfingers",
+                    "egg yolks",
+                    "sugar",
+                    "mascarpone cheese",
+                    "egg whites",
+                    "cocoa powder"
+                ]
+            },
+            {
+                "recipeId": "bN7mO5pQ3rZ8sF1",
+                "recipeName": "Pesto Pasta",
+                "recipeImage": "https://example.com/recipes/pesto-pasta.jpg",
+                "makerId": "bC4dE8fG2hI9jK6",
+                "cookingMethod": "Cook pasta according to package instructions. While the pasta is cooking, make the pesto sauce. In a food processor, combine basil leaves, garlic, pine nuts, Parmesan cheese, and olive oil. Process until smooth. When the pasta is done, drain it and return it to the pot. Add the pesto sauce to the pot and toss to combine. Serve hot with additional grated Parmesan cheese, if desired.",
+                "ratings": 4.7,
+                "ingredients": [
+                    "pasta",
+                    "basil leaves",
+                    "garlic",
+                    "pine nuts",
+                    "Parmesan cheese",
+                    "olive oil"
+                ]
+            }
+        ]
+    }
+]
