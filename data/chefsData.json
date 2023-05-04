@@ -12,7 +12,7 @@
             {
                 "recipeId": "4385f2d6a1",
                 "recipeName": "Grilled Salmon",
-                "recipeImage": "https://example.com/recipes/grilled-salmon.jpg",
+                "recipeImage": "https://i.ibb.co/7VGh6Ck/1-Grilled-Salmon.jpg",
                 "makerId": "xG8jK5qdfds7P2wF9t",
                 "cookingMethod": "Grilling - Preheat grill to medium-high heat. Brush salmon fillets with olive oil, and sprinkle with salt and pepper. Place fillets, skin side down, on grill rack coated with cooking spray. Grill for 6 minutes or until fish flakes easily when tested with a fork. Serve with lemon wedges.",
                 "ratings": 4.5,
@@ -27,7 +27,7 @@
             {
                 "recipeId": "c7d8b2a1f6",
                 "recipeName": "Mushroom Risotto",
-                "recipeImage": "https://example.com/recipes/mushroom-risotto.jpg",
+                "recipeImage": "https://i.ibb.co/44Rcp3Z/2-Mushroom-Risotto.jpg",
                 "makerId": "xG8jK5qdfds7P2wF9t",
                 "cookingMethod": "Stovetop - In a large saucepan, heat chicken broth over medium heat. In a separate saucepan, heat olive oil and sauté chopped onions and garlic until soft. Add arborio rice and sauté for 2-3 minutes. Gradually add chicken broth to the rice mixture, stirring frequently, until the liquid is absorbed and the rice is cooked through. Add sautéed mushrooms and grated parmesan cheese, and stir until well combined.",
                 "ratings": 4.8,
@@ -42,7 +42,7 @@
             {
                 "recipeId": "8d2c5f6a7b",
                 "recipeName": "Chocolate Cake",
-                "recipeImage": "https://example.com/recipes/chocolate-cake.jpg",
+                "recipeImage": "https://i.ibb.co/mDQD1YZ/3-Chocolate-Cake.jpg",
                 "makerId": "xG8jK5qdfds7P2wF9t",
                 "cookingMethod": "Oven - Preheat oven to 350°F (175°C). Grease and flour a 9x13 inch baking pan. In a large mixing bowl, whisk together flour, sugar, cocoa powder, baking soda, and salt. Add eggs, milk, vegetable oil, and vanilla extract, and beat on medium speed for 2 minutes. Gradually add hot water, and continue to beat until well combined. Pour batter into prepared pan and bake for 30-35 minutes, or until a toothpick inserted in the center comes out clean. Allow to cool completely before serving.",
                 "ratings": 4.7,
@@ -69,7 +69,7 @@
             {
                 "recipeId": "a1b2c3d4e5",
                 "recipeName": "Roasted Vegetable Salad",
-                "recipeImage": "https://example.com/recipes/roasted-veggie-salad.jpg",
+                "recipeImage": "https://i.ibb.co/hRdzypT/4-Roasted-Vegetable-Salad.jpg",
                 "makerId": "aB4dE7fGhIjK8lM9",
                 "cookingMethod": "Oven - Preheat oven to 400°F (200°C). Cut a selection of vegetables (e.g. bell peppers, zucchini, eggplant, cherry tomatoes) into bite-sized pieces and toss with olive oil, salt, and pepper. Roast vegetables in the oven for 20-25 minutes, or until they are tender and lightly charred. Serve over a bed of mixed greens with a drizzle of balsamic vinegar.",
                 "ratings": 4.2,
@@ -88,7 +88,7 @@
             {
                 "recipeId": "b6a5rc9f2d8",
                 "recipeName": "Lemon Garlic Shrimp Pasta",
-                "recipeImage": "https://example.com/recipes/lemon-garlic-shrimp-pasta.jpg",
+                "recipeImage": "https://i.ibb.co/fnBPgmj/5-Lemon-Garlic-Shrimp-Pasta.jpg",
                 "makerId": "aB4dE7fGhIjK8lM9",
                 "cookingMethod": "Stovetop - Cook pasta according to package instructions. While the pasta is cooking, heat olive oil in a large skillet over medium heat. Add minced garlic and sauté for 1-2 minutes, until fragrant. Add shrimp and cook until pink, about 3-4 minutes. Add lemon juice, salt, and red pepper flakes to the skillet, and stir to combine. Drain pasta and add it to the skillet, tossing to coat with the shrimp and sauce. Serve with grated parmesan cheese and chopped parsley.",
                 "ratings": 4.6,
@@ -106,8 +106,8 @@
             },
             {
                 "recipeId": "b6a5c9f2d8",
-                "recipeName": "Linguine al Limone con Gamberi e Aglio",
-                "recipeImage": "https://example.com/recipes/linguine-al-limone-con-gamberi-e-aglio.jpg",
+                "recipeName": "Linguine al Limone ",
+                "recipeImage": "https://i.ibb.co/wSDH68F/6-Linguine-al-Limone.jpg",
                 "makerId": "aB4dE7fGhIjK8lM9",
                 "cookingMethod": "Stovetop - Cook the linguine according to package instructions in a large pot of salted boiling water until al dente. While the pasta is cooking, heat olive oil in a large skillet over medium heat. Add minced garlic and sauté for 1-2 minutes, until fragrant. Add fresh, raw shrimp that has been cleaned and deveined, and cook until pink, about 3-4 minutes. Add lemon juice, salt, and red pepper flakes to the skillet, and stir to combine. Drain the linguine and add it to the skillet, tossing to coat with the shrimp and sauce. Serve with freshly grated Parmigiano-Reggiano cheese and chopped fresh parsley.",
                 "ratings": 4.6,
@@ -138,7 +138,7 @@
             {
                 "recipeId": "gH6iJ8kL4mN3",
                 "recipeName": "Spaghetti Carbonara",
-                "recipeImage": "https://example.com/recipes/spaghetti-carbonara.jpg",
+                "recipeImage": "https://i.ibb.co/b1YLMQq/7-Spaghetti-Carbonara.jpg",
                 "makerId": "bC4dE8fG2hI9jK6",
                 "cookingMethod": "Stovetop - Cook spaghetti according to package instructions. While the pasta is cooking, cook diced pancetta in a large skillet over medium heat until crispy. In a bowl, whisk together eggs, grated Parmesan cheese, and black pepper. When pasta is done, reserve 1/2 cup of pasta water and drain the rest. Add drained pasta to the skillet with the pancetta and toss to combine. Remove skillet from heat and pour in egg mixture, stirring constantly until eggs are cooked and mixture is creamy. Add reserved pasta water as needed to thin the sauce. Serve immediately, garnished with additional grated Parmesan cheese and chopped parsley.",
                 "ratings": 4.8,
@@ -154,7 +154,7 @@
             {
                 "recipeId": "hT4jK9nM1oP2qR8",
                 "recipeName": "Tiramisu",
-                "recipeImage": "https://example.com/recipes/tiramisu.jpg",
+                "recipeImage": "https://i.ibb.co/DGJg92d/8-Tiramisu.jpg",
                 "makerId": "bC4dE8fG2hI9jK6",
                 "cookingMethod": "Mix espresso and Marsala wine in a shallow bowl. Dip ladyfingers in the mixture one by one, and place them in a single layer in the bottom of a 9x13 inch dish. Beat egg yolks and sugar in a large bowl until thick and pale. Add mascarpone cheese and beat until smooth. In a separate bowl, beat egg whites until stiff peaks form. Gently fold egg whites into mascarpone mixture. Spread half of the mascarpone mixture over the ladyfingers. Repeat with another layer of ladyfingers and remaining mascarpone mixture. Cover and chill for at least 2 hours, or overnight. Before serving, dust with cocoa powder.",
                 "ratings": 4.9,
@@ -172,7 +172,7 @@
             {
                 "recipeId": "bN7mO5pQ3rZ8sF1",
                 "recipeName": "Pesto Pasta",
-                "recipeImage": "https://example.com/recipes/pesto-pasta.jpg",
+                "recipeImage": "https://i.ibb.co/W3zC99Y/9-Pesto-Pasta.jpg",
                 "makerId": "bC4dE8fG2hI9jK6",
                 "cookingMethod": "Cook pasta according to package instructions. While the pasta is cooking, make the pesto sauce. In a food processor, combine basil leaves, garlic, pine nuts, Parmesan cheese, and olive oil. Process until smooth. When the pasta is done, drain it and return it to the pot. Add the pesto sauce to the pot and toss to combine. Serve hot with additional grated Parmesan cheese, if desired.",
                 "ratings": 4.7,
@@ -200,7 +200,7 @@
             {
                 "recipeId": "fH9jK7lrM2nQ4",
                 "recipeName": "Chicken Tikka Masala",
-                "recipeImage": "https://example.com/recipes/chicken-tikka-masala.jpg",
+                "recipeImage": "https://i.ibb.co/0KbWyMj/10-Chicken-Tikka-Masala.jpg",
                 "makerId": "fH9jK7lM2nQ4",
                 "cookingMethod": "Marinate chicken in yogurt, lemon juice, and spices. Grill or broil until cooked through. In a separate pan, sauté onions and garlic in butter until softened. Add canned tomatoes and spices, and simmer until thickened. Add cooked chicken to the tomato sauce and simmer for a few more minutes. Serve with rice and naan bread.",
                 "ratings": 4.6,
@@ -220,7 +220,7 @@
             {
                 "recipeId": "gI8kL3nH4mQ5oP2",
                 "recipeName": "Miso Salmon",
-                "recipeImage": "https://example.com/recipes/miso-salmon.jpg",
+                "recipeImage": "https://i.ibb.co/tHgtGsp/11-Miso-Salmon.jpg",
                 "makerId": "fH9jK7lM2nQ4",
                 "cookingMethod": "Mix miso paste, sake, and sugar in a bowl. Coat salmon fillets in the miso mixture and marinate for at least 30 minutes. Broil or grill until cooked through. Serve with steamed rice and vegetables.",
                 "ratings": 4.9,
@@ -235,8 +235,8 @@
             },
             {
                 "recipeId": "hJ9kL7mF5nQ4oP2",
-                "recipeName": "Thai Green Curry",
-                "recipeImage": "https://example.com/recipes/thai-green-curry.jpg",
+                "recipeName": "Green Curry",
+                "recipeImage": "https://i.ibb.co/jGTFvhr/12-Green-Curry.jpg",
                 "makerId": "fH9jK7lM2nQ4",
                 "cookingMethod": "Heat oil in a large pot over medium heat. Add curry paste and cook for a minute or two, until fragrant. Add coconut milk and vegetables, and simmer until vegetables are tender. Add cooked chicken or shrimp, if desired. Serve with rice or noodles.",
                 "ratings": 4.7,
@@ -263,8 +263,8 @@
         "recipes": [
             {
                 "recipeId": "dH9jK6lM2qE5",
-                "recipeName": "Korean Fried Chicken",
-                "recipeImage": "https://example.com/recipes/korean-fried-chicken.jpg",
+                "recipeName": "Fried Chicken",
+                "recipeImage": "https://i.ibb.co/Gx56q21/13-Fried-Chicken.jpg",
                 "makerId": "dH9jK6lM2nE5",
                 "cookingMethod": "In a large bowl, mix together flour, cornstarch, salt, and baking powder. Add chicken wings and toss to coat. Heat oil in a deep fryer or large pot to 375°F. Fry chicken wings in batches until golden brown and crispy, about 10 minutes per batch. In a separate bowl, whisk together gochujang, honey, soy sauce, rice vinegar, sesame oil, and garlic. Toss fried chicken wings in the sauce until coated. Serve hot with sliced scallions and sesame seeds.",
                 "ratings": 4.6,
@@ -273,22 +273,13 @@
                     "flour",
                     "cornstarch",
                     "salt",
-                    "baking powder",
-                    "vegetable oil",
-                    "gochujang",
-                    "honey",
-                    "soy sauce",
-                    "rice vinegar",
-                    "sesame oil",
-                    "garlic",
-                    "scallions",
-                    "sesame seeds"
+                    "baking powder"
                 ]
             },
             {
                 "recipeId": "eI8kL5oN4mF1pQ9",
                 "recipeName": "Banh Mi Sandwich",
-                "recipeImage": "https://example.com/recipes/banh-mi-sandwich.jpg",
+                "recipeImage": "https://i.ibb.co/fQYBdQD/14-Banh-Mi-Sandwich.jpg",
                 "makerId": "dH9jK6lM2nE5",
                 "cookingMethod": "Mix together mayonnaise and sriracha in a small bowl. Spread the mixture on one side of each baguette slice. Layer each sandwich with pickled carrots and daikon, sliced cucumber, fresh cilantro, jalapeno slices, and grilled or roasted pork belly or chicken. Serve immediately.",
                 "ratings": 4.9,
@@ -297,18 +288,13 @@
                     "mayonnaise",
                     "sriracha",
                     "pickled carrots",
-                    "pickled daikon",
-                    "cucumber",
-                    "fresh cilantro",
-                    "jalapeno",
-                    "pork belly",
-                    "chicken"
+                    "pickled daikon"
                 ]
             },
             {
                 "recipeId": "dH9jK6lg2nE5",
                 "recipeName": "Sushi Burrito",
-                "recipeImage": "https://example.com/recipes/sushi-burrito.jpg",
+                "recipeImage": "https://i.ibb.co/FWwjr6M/15-Sushi-Burrito.jpg",
                 "makerId": "dH9jK6lM2nE5",
                 "cookingMethod": "Prepare sushi rice according to package instructions. Place a sheet of nori on a sushi mat, shiny side down. Spread a layer of rice over the nori, leaving a 1-inch border at the top. Arrange your desired fillings, such as cooked shrimp, avocado, cucumber, and carrots, in the center of the rice. Use the sushi mat to roll the nori tightly around the filling, tucking in the sides as you go. Wet the border of the nori with water to seal the roll. Slice the sushi burrito in half and serve with soy sauce and wasabi.",
                 "ratings": 4.6,
@@ -317,10 +303,7 @@
                     "nori",
                     "shrimp",
                     "avocado",
-                    "cucumber",
-                    "carrots",
-                    "soy sauce",
-                    "wasabi"
+                    "cucumber"
                 ]
             }
         ]
@@ -338,7 +321,7 @@
             {
                 "recipeId": "aB3cD4eF5gH6",
                 "recipeName": "Grilled Steak ",
-                "recipeImage": "https://example.com/recipes/grilled-steak-chimichurri.jpg",
+                "recipeImage": "https://i.ibb.co/93r4PN9/16-Grilled-Steak.jpg",
                 "makerId": "bC2dE3fG4hI5",
                 "cookingMethod": "Season steaks with salt and pepper, and grill to desired doneness. For the chimichurri sauce, blend together fresh parsley, garlic, red wine vinegar, olive oil, and red pepper flakes. Serve steak with the chimichurri sauce.",
                 "ratings": 4.8,
@@ -353,7 +336,7 @@
             {
                 "recipeId": "bC2dE3fG4hI5",
                 "recipeName": "Shrimp Scampi",
-                "recipeImage": "https://example.com/recipes/shrimp-scampi.jpg",
+                "recipeImage": "https://i.ibb.co/bFfNC6r/17-Shrimp-Scampi.jpg",
                 "makerId": "aB3cD4eF5gH6",
                 "cookingMethod": "Sauté garlic in butter until fragrant, then add shrimp and cook until pink. Add white wine and lemon juice, and simmer for a few minutes. Serve over linguine and garnish with chopped parsley.",
                 "ratings": 4.7,
@@ -370,7 +353,7 @@
             {
                 "recipeId": "cD3eF4gH5iJ6",
                 "recipeName": "Vegetable Stir-Fry",
-                "recipeImage": "https://example.com/recipes/vegetable-stir-fry.jpg",
+                "recipeImage": "https://i.ibb.co/2kN2YDx/18-Vegetable-Stir-Fry.jpg",
                 "makerId": "aB3cD4eF5gH6",
                 "cookingMethod": "Heat oil in a wok or large pan. Add chopped vegetables and stir-fry until tender. Mix together soy sauce, ginger, garlic, and brown sugar. Pour over vegetables and stir-fry for a few more minutes. Serve over rice.",
                 "ratings": 4.5,
