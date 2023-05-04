@@ -8,11 +8,12 @@ const chefsData = require('./data/chefsData.json')
 const reviews = require('./data/reviews.json')
 
 app.get('/', (req, res) => {
-    res.send('Super Chef server is')
+    res.send('Super Chef server is running')
 
 
 })
 
+// find data by id 
 app.get('/chefs/:chefId', (req, res) => {
     const id = req.params.chefId
     const selectedChef = chefsData.find(chef => chef.chefId === id)

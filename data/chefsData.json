@@ -29,7 +29,7 @@
                 "recipeName": "Mushroom Risotto",
                 "recipeImage": "https://i.ibb.co/44Rcp3Z/2-Mushroom-Risotto.jpg",
                 "makerId": "xG8jK5qdfds7P2wF9t",
-                "cookingMethod": "Stovetop - In a large saucepan, heat chicken broth over medium heat. In a separate saucepan, heat olive oil and sauté chopped onions and garlic until soft. Add arborio rice and sauté for 2-3 minutes. Gradually add chicken broth to the rice mixture, stirring frequently, until the liquid is absorbed and the rice is cooked through. Add sautéed mushrooms and grated parmesan cheese, and stir until well combined.",
+                "cookingMethod": "Stovetop - In a large saucepan, heat chicken broth over medium heat. In a separate saucepan, heat olive oil and sauté chopped onions and garlic until soft. Add arborio rice and sauté for 2-3 minutes.",
                 "ratings": 4.8,
                 "ingredients": [
                     "arborio rice",
@@ -44,7 +44,7 @@
                 "recipeName": "Chocolate Cake",
                 "recipeImage": "https://i.ibb.co/mDQD1YZ/3-Chocolate-Cake.jpg",
                 "makerId": "xG8jK5qdfds7P2wF9t",
-                "cookingMethod": "Oven - Preheat oven to 350°F (175°C). Grease and flour a 9x13 inch baking pan. In a large mixing bowl, whisk together flour, sugar, cocoa powder, baking soda, and salt. Add eggs, milk, vegetable oil, and vanilla extract, and beat on medium speed for 2 minutes. Gradually add hot water, and continue to beat until well combined. Pour batter into prepared pan and bake for 30-35 minutes, or until a toothpick inserted in the center comes out clean. Allow to cool completely before serving.",
+                "cookingMethod": "Oven - Preheat oven to 350°F (175°C). Grease and flour a 9x13 inch baking pan. In a large mixing bowl, whisk together flour, sugar, cocoa powder, baking soda, and salt. Add eggs, milk, vegetable oil, and vanilla extract, and beat on medium speed for 2 minutes.",
                 "ratings": 4.7,
                 "ingredients": [
                     "purpose flour",
@@ -71,7 +71,7 @@
                 "recipeName": "Roasted Vegetable Salad",
                 "recipeImage": "https://i.ibb.co/hRdzypT/4-Roasted-Vegetable-Salad.jpg",
                 "makerId": "aB4dE7fGhIjK8lM9",
-                "cookingMethod": "Oven - Preheat oven to 400°F (200°C). Cut a selection of vegetables (e.g. bell peppers, zucchini, eggplant, cherry tomatoes) into bite-sized pieces and toss with olive oil, salt, and pepper. Roast vegetables in the oven for 20-25 minutes, or until they are tender and lightly charred. Serve over a bed of mixed greens with a drizzle of balsamic vinegar.",
+                "cookingMethod": "Oven - Preheat oven to 400°F (200°C). Cut a selection of vegetables (e.g. bell peppers, zucchini, eggplant, cherry tomatoes) into bite-sized pieces and toss with olive oil, salt, and pepper. Roast vegetables in the oven for 20-25 minutes, or until they are tender and lightly charred. .",
                 "ratings": 4.2,
                 "ingredients": [
                     "bell peppers",
@@ -90,7 +90,7 @@
                 "recipeName": "Lemon Garlic Shrimp Pasta",
                 "recipeImage": "https://i.ibb.co/fnBPgmj/5-Lemon-Garlic-Shrimp-Pasta.jpg",
                 "makerId": "aB4dE7fGhIjK8lM9",
-                "cookingMethod": "Stovetop - Cook pasta according to package instructions. While the pasta is cooking, heat olive oil in a large skillet over medium heat. Add minced garlic and sauté for 1-2 minutes, until fragrant. Add shrimp and cook until pink, about 3-4 minutes. Add lemon juice, salt, and red pepper flakes to the skillet, and stir to combine. Drain pasta and add it to the skillet, tossing to coat with the shrimp and sauce. Serve with grated parmesan cheese and chopped parsley.",
+                "cookingMethod": "Stovetop - Cook pasta according to package instructions. While the pasta is cooking, heat olive oil in a large skillet over medium heat. Add minced garlic and sauté for 1-2 minutes, until fragrant. Add shrimp and cook until pink, about 3-4 minutes. Add lemon juice, salt, and red pepper flakes to the skillet, and stir to combine.",
                 "ratings": 4.6,
                 "ingredients": [
                     "pasta",
@@ -109,7 +109,7 @@
                 "recipeName": "Linguine al Limone ",
                 "recipeImage": "https://i.ibb.co/wSDH68F/6-Linguine-al-Limone.jpg",
                 "makerId": "aB4dE7fGhIjK8lM9",
-                "cookingMethod": "Stovetop - Cook the linguine according to package instructions in a large pot of salted boiling water until al dente. While the pasta is cooking, heat olive oil in a large skillet over medium heat. Add minced garlic and sauté for 1-2 minutes, until fragrant. Add fresh, raw shrimp that has been cleaned and deveined, and cook until pink, about 3-4 minutes. Add lemon juice, salt, and red pepper flakes to the skillet, and stir to combine. Drain the linguine and add it to the skillet, tossing to coat with the shrimp and sauce. Serve with freshly grated Parmigiano-Reggiano cheese and chopped fresh parsley.",
+                "cookingMethod": "Stovetop - Cook the linguine according to package instructions in a large pot of salted boiling water until al dente. While the pasta is cooking, heat olive oil in a large skillet over medium heat. Add minced garlic and sauté for 1-2 minutes, until fragrant. Add fresh, raw shrimp that has been cleaned and deveined, and cook until pink, about 3-4 minutes.",
                 "ratings": 4.6,
                 "ingredients": [
                     "linguine",
@@ -140,7 +140,7 @@
                 "recipeName": "Spaghetti Carbonara",
                 "recipeImage": "https://i.ibb.co/b1YLMQq/7-Spaghetti-Carbonara.jpg",
                 "makerId": "bC4dE8fG2hI9jK6",
-                "cookingMethod": "Stovetop - Cook spaghetti according to package instructions. While the pasta is cooking, cook diced pancetta in a large skillet over medium heat until crispy. In a bowl, whisk together eggs, grated Parmesan cheese, and black pepper. When pasta is done, reserve 1/2 cup of pasta water and drain the rest. Add drained pasta to the skillet with the pancetta and toss to combine. Remove skillet from heat and pour in egg mixture, stirring constantly until eggs are cooked and mixture is creamy. Add reserved pasta water as needed to thin the sauce. Serve immediately, garnished with additional grated Parmesan cheese and chopped parsley.",
+                "cookingMethod": "Stovetop - Cook spaghetti according to package instructions. While the pasta is cooking, cook diced pancetta in a large skillet over medium heat until crispy. In a bowl, whisk together eggs, grated Parmesan cheese, and black pepper. When pasta is done, reserve 1/2 cup of pasta water and drain the rest. Add drained pasta to the skillet with the pancetta and toss to combine. ",
                 "ratings": 4.8,
                 "ingredients": [
                     "spaghetti",
@@ -156,7 +156,7 @@
                 "recipeName": "Tiramisu",
                 "recipeImage": "https://i.ibb.co/DGJg92d/8-Tiramisu.jpg",
                 "makerId": "bC4dE8fG2hI9jK6",
-                "cookingMethod": "Mix espresso and Marsala wine in a shallow bowl. Dip ladyfingers in the mixture one by one, and place them in a single layer in the bottom of a 9x13 inch dish. Beat egg yolks and sugar in a large bowl until thick and pale. Add mascarpone cheese and beat until smooth. In a separate bowl, beat egg whites until stiff peaks form. Gently fold egg whites into mascarpone mixture. Spread half of the mascarpone mixture over the ladyfingers. Repeat with another layer of ladyfingers and remaining mascarpone mixture. Cover and chill for at least 2 hours, or overnight. Before serving, dust with cocoa powder.",
+                "cookingMethod": "Mix espresso and Marsala wine in a shallow bowl. Dip ladyfingers in the mixture one by one, and place them in a single layer in the bottom of a 9x13 inch dish. Beat egg yolks and sugar in a large bowl until thick and pale. Add mascarpone cheese and beat until smooth. In a separate bowl, beat egg whites until stiff peaks form. ",
                 "ratings": 4.9,
                 "ingredients": [
                     "espresso",
@@ -174,7 +174,7 @@
                 "recipeName": "Pesto Pasta",
                 "recipeImage": "https://i.ibb.co/W3zC99Y/9-Pesto-Pasta.jpg",
                 "makerId": "bC4dE8fG2hI9jK6",
-                "cookingMethod": "Cook pasta according to package instructions. While the pasta is cooking, make the pesto sauce. In a food processor, combine basil leaves, garlic, pine nuts, Parmesan cheese, and olive oil. Process until smooth. When the pasta is done, drain it and return it to the pot. Add the pesto sauce to the pot and toss to combine. Serve hot with additional grated Parmesan cheese, if desired.",
+                "cookingMethod": "Cook pasta according to package instructions. While the pasta is cooking, make the pesto sauce. In a food processor, combine basil leaves, garlic, pine nuts, Parmesan cheese, and olive oil. Process until smooth. When the pasta is done, drain it and return it to the pot. ",
                 "ratings": 4.7,
                 "ingredients": [
                     "pasta",
@@ -266,7 +266,7 @@
                 "recipeName": "Fried Chicken",
                 "recipeImage": "https://i.ibb.co/Gx56q21/13-Fried-Chicken.jpg",
                 "makerId": "dH9jK6lM2nE5",
-                "cookingMethod": "In a large bowl, mix together flour, cornstarch, salt, and baking powder. Add chicken wings and toss to coat. Heat oil in a deep fryer or large pot to 375°F. Fry chicken wings in batches until golden brown and crispy, about 10 minutes per batch. In a separate bowl, whisk together gochujang, honey, soy sauce, rice vinegar, sesame oil, and garlic. Toss fried chicken wings in the sauce until coated. Serve hot with sliced scallions and sesame seeds.",
+                "cookingMethod": "In a large bowl, mix together flour, cornstarch, salt, and baking powder. Add chicken wings and toss to coat. Heat oil in a deep fryer or large pot to 375°F. Fry chicken wings in batches until golden brown and crispy, about 10 minutes per batch. ",
                 "ratings": 4.6,
                 "ingredients": [
                     "chicken wings",
@@ -296,7 +296,7 @@
                 "recipeName": "Sushi Burrito",
                 "recipeImage": "https://i.ibb.co/FWwjr6M/15-Sushi-Burrito.jpg",
                 "makerId": "dH9jK6lM2nE5",
-                "cookingMethod": "Prepare sushi rice according to package instructions. Place a sheet of nori on a sushi mat, shiny side down. Spread a layer of rice over the nori, leaving a 1-inch border at the top. Arrange your desired fillings, such as cooked shrimp, avocado, cucumber, and carrots, in the center of the rice. Use the sushi mat to roll the nori tightly around the filling, tucking in the sides as you go. Wet the border of the nori with water to seal the roll. Slice the sushi burrito in half and serve with soy sauce and wasabi.",
+                "cookingMethod": "Prepare sushi rice according to package instructions. Place a sheet of nori on a sushi mat, shiny side down. Spread a layer of rice over the nori, leaving a 1-inch border at the top. Arrange your desired fillings, such as cooked shrimp, avocado, cucumber, and carrots, in the center of the rice. ",
                 "ratings": 4.6,
                 "ingredients": [
                     "sushi rice",
