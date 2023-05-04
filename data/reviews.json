@@ -16,6 +16,24 @@
         "image_url": "https://i.ibb.co/DgCzmH0/3.jpg",
         "name": "Mike Johnson",
         "review_text": "I'm constantly blown away by the talent and creativity on display at Super Chefs. The recipes are accessible and easy to follow, but always packed with flavor and personality. This is a must-visit site for anyone who loves food!"
+    },
+    {
+        "id": "9c7d2f1e",
+        "image_url": "https://i.ibb.co/Gx4q8r1/2.jpg",
+        "name": "Rachel Kim",
+        "review_text": "As someone who's always loved cooking, I can't recommend Super Chefs enough. The recipes are creative and always turn out amazing, and the site is super easy to navigate. I also appreciate that they have a wide range of dietary options, from vegan to gluten-free."
+    },
+    {
+        "id": "3b6a5f8d",
+        "image_url": "https://i.ibb.co/sVQR06r/4.jpg",
+        "name": "David Lee",
+        "review_text": "I was a bit intimidated by cooking before I discovered Super Chefs, but their step-by-step instructions and helpful videos have given me the confidence to try new things in the kitchen. The recipes are always delicious and I love how they incorporate global flavors into their dishes."
+    },
+    {
+        "id": "7e2f4c9a",
+        "image_url": "https://i.ibb.co/tKCvXn8/6.jpg",
+        "name": "Laura Johnson",
+        "review_text": "Super Chefs has been a game-changer for me in the kitchen. The recipes are both delicious and approachable, and the site has helped me become a more adventurous cook. I also appreciate the variety of content they offer, from quick and easy weeknight meals to more elaborate weekend projects."
     }
   
 ]
